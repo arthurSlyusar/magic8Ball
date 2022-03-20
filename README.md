@@ -5,4 +5,4 @@ Magic 8 ball js script is a fortune telling tool that has made its way into popu
 Put your name to **userName** and a question to **userQuestion** and get the prediction.
 
 
-\\ was made with **if else** and **switch** logic 
+This code was made with **if else** and **switch** logic 
