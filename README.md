@@ -6,6 +6,6 @@ Put your name to **userName** and a question to **userQuestion** and get the pre
 
 
 
-- - 
+- 
 
 This code was made with **if else** and **switch** logic 
